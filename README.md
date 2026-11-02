@@ -15,6 +15,7 @@ A couple of public projects:
 
 * [gemma-3-rag-finetuning](https://github.com/dyurillo/gemma-3-rag-finetuning): LoRA fine-tune that gets Gemma 3 1B to cite its sources verbatim (29% → 94%)
 * [rag-eval-harness](https://github.com/dyurillo/rag-eval-harness): the eval harness I used to compare it against the base model
+* [neural-network](https://github.com/dyurillo/neural-network): a neural network written from scratch in C++ (no ML frameworks), with a live SFML view where you click to add training points and watch it learn
 
 Most of my projects live on a **self-hosted GitLab instance**, so I mainly use GitHub to share public projects and contribute to open source.
 
