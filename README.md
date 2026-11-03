@@ -19,8 +19,7 @@ A couple of public projects:
 
 Most of my projects live on a **self-hosted GitLab instance**, so I mainly use GitHub to share public projects and contribute to open source.
 
-I'm always happy to connect with people building awesome things in software: 
-<!-- [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) -->
+I'm always happy to connect with people building awesome things in software: [LinkedIn](https://www.linkedin.com/in/dyurillo)
 
 <!--
 **dyurillo/dyurillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
