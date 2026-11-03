@@ -1,6 +1,6 @@
 # Hey, I'm Dylan 👋
 
-I'm an engineer focused on **LLM inference, agentic RAG, and evaluation**, with a lot of self-hosting on the side.
+I'm an engineer focused on **LLM inference, agentic RAG, and AI evaluation**, with a lot of self-hosting on the side.
 
 I spend most of my time working with Python, PyTorch, vLLM, Kubernetes, TypeScript, and C++.
 
